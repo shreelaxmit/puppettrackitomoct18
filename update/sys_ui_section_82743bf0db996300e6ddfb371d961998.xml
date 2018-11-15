@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="82743bf0db996300e6ddfb371d961998" sys_domain="global" table="x_nutr_cfgpuppet9_puppet_enterprise_credentials" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>name</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-19 23:39:53</sys_created_on>
+            <sys_id>03d4fff0db996300e6ddfb371d961986</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_nutr_cfgpuppet9_puppet_enterprise_credentials" sys_domain="global" view="Default view">82743bf0db996300e6ddfb371d961998</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-19 23:39:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>user_name</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-19 23:39:53</sys_created_on>
+            <sys_id>83d4fff0db996300e6ddfb371d961986</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_nutr_cfgpuppet9_puppet_enterprise_credentials" sys_domain="global" view="Default view">82743bf0db996300e6ddfb371d961998</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-19 23:39:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>password</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-19 23:39:53</sys_created_on>
+            <sys_id>07d4fff0db996300e6ddfb371d961986</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_nutr_cfgpuppet9_puppet_enterprise_credentials" sys_domain="global" view="Default view">82743bf0db996300e6ddfb371d961998</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-19 23:39:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>tag</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-19 23:39:53</sys_created_on>
+            <sys_id>87d4fff0db996300e6ddfb371d961986</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_nutr_cfgpuppet9_puppet_enterprise_credentials" sys_domain="global" view="Default view">82743bf0db996300e6ddfb371d961998</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-19 23:39:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>machine_password</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-19 23:39:53</sys_created_on>
+            <sys_id>0bd4fff0db996300e6ddfb371d961986</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_nutr_cfgpuppet9_puppet_enterprise_credentials" sys_domain="global" view="Default view">82743bf0db996300e6ddfb371d961998</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-19 23:39:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>machine_username</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-19 23:39:53</sys_created_on>
+            <sys_id>8bd4fff0db996300e6ddfb371d961986</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_nutr_cfgpuppet9_puppet_enterprise_credentials" sys_domain="global" view="Default view">82743bf0db996300e6ddfb371d961998</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-19 23:39:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_nutr_cfgpuppet9_puppet_enterprise_credentials</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-19 23:38:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>82743bf0db996300e6ddfb371d961998</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_nutr_cfgpuppet9_puppet_enterprise_credentials</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="cfgpuppet9" source="x_nutr_cfgpuppet9">7d636fb0db596300e6ddfb371d961936</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="cfgpuppet9">7d636fb0db596300e6ddfb371d961936</sys_scope>
+            <sys_update_name>sys_ui_section_82743bf0db996300e6ddfb371d961998</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-19 23:38:11</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

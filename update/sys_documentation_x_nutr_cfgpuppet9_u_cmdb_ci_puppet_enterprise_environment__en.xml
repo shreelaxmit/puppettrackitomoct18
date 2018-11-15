@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Puppet Enterprise Environment" language="en" table="x_nutr_cfgpuppet9_u_cmdb_ci_puppet_enterprise_environment">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Puppet Enterprise Environment</label>
+            <language>en</language>
+            <name>x_nutr_cfgpuppet9_u_cmdb_ci_puppet_enterprise_environment</name>
+            <plural>Puppet Enterprise Environments</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-19 23:15:06</sys_created_on>
+            <sys_id>732f27bcdb596300e6ddfb371d9619ae</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Puppet Enterprise Environment</sys_name>
+            <sys_package display_value="cfgpuppet9" source="x_nutr_cfgpuppet9">7d636fb0db596300e6ddfb371d961936</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="cfgpuppet9">7d636fb0db596300e6ddfb371d961936</sys_scope>
+            <sys_update_name>sys_documentation_x_nutr_cfgpuppet9_u_cmdb_ci_puppet_enterprise_environment__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-19 23:15:06</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_cmp_bp_stage_resource_op">
+    <sn_cmp_bp_stage_resource_op action="INSERT_OR_UPDATE">
+        <alias_name>Blueprint Container Resource.Stop</alias_name>
+        <bp_stage_operation display_value="Stop">8365f3f4db996300e6ddfb371d9619d1</bp_stage_operation>
+        <bp_stage_resource display_value="Blueprint Container Resource">0765f3f4db996300e6ddfb371d9619dc</bp_stage_resource>
+        <condition_text/>
+        <operation_order>1000</operation_order>
+        <parent_id/>
+        <rb_operation_impl display_value="Stop">6e65f3f4db996300e6ddfb371d96196b</rb_operation_impl>
+        <resource_block display_value="PuppetInstaller Blueprint Resource">9165b3f4db996300e6ddfb371d96191f</resource_block>
+        <sys_class_name>sn_cmp_bp_stage_resource_op</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-10-19 23:42:36</sys_created_on>
+        <sys_id>b675fff4db996300e6ddfb371d961966</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Blueprint Container Resource.Stop</sys_name>
+        <sys_package display_value="cfgpuppet9" source="x_nutr_cfgpuppet9">7d636fb0db596300e6ddfb371d961936</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="cfgpuppet9">7d636fb0db596300e6ddfb371d961936</sys_scope>
+        <sys_update_name>sn_cmp_bp_stage_resource_op_b675fff4db996300e6ddfb371d961966</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-10-19 23:42:37</sys_updated_on>
+        <type/>
+        <unique_id>2088</unique_id>
+    </sn_cmp_bp_stage_resource_op>
+</record_update>

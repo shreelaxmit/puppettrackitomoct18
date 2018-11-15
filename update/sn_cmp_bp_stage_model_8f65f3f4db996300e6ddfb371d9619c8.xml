@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_cmp_bp_stage_model">
+    <sn_cmp_bp_stage_model action="INSERT_OR_UPDATE">
+        <blueprint display_value="PuppetInstaller">4d653fb4db996300e6ddfb371d961982</blueprint>
+        <blueprint_template/>
+        <intent/>
+        <stage display_value="Default">a74383b20b2222003ad5c73ef6673a1d</stage>
+        <sys_class_name>sn_cmp_bp_stage_model</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-10-19 23:42:20</sys_created_on>
+        <sys_id>8f65f3f4db996300e6ddfb371d9619c8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="cfgpuppet9" source="x_nutr_cfgpuppet9">7d636fb0db596300e6ddfb371d961936</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="cfgpuppet9">7d636fb0db596300e6ddfb371d961936</sys_scope>
+        <sys_update_name>sn_cmp_bp_stage_model_8f65f3f4db996300e6ddfb371d9619c8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-10-19 23:42:21</sys_updated_on>
+    </sn_cmp_bp_stage_model>
+</record_update>

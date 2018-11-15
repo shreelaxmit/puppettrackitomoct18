@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="ecc_agent_script_include">
+    <ecc_agent_script_include action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>Script for CAPI - Puppet Enterprise Configuration API.Discover</description>
+        <name>puppet-enterprise-1.0-Discover</name>
+        <script><![CDATA[discoverPuppetEnterprise(); 
+
+  
+
+function discoverPuppetEnterprise() { 
+
+  
+
+    try { 
+
+        var discoveryPayload = {}; 
+
+        var additionalParameters = this.parameters.get('AdditionalParameters'); 
+
+        var additionalParams = new JSON().decode(additionalParameters); 
+
+        var discoveryParameter = additionalParams.entity; 
+
+         
+
+        ms.log("$$$ discoveryParameter : " + discoveryParameter); 
+
+  
+
+        if (discoveryParameter == "environment") { 
+
+            //invoke Environments Discovery 
+
+            var peE = new PuppetEnterpriseEnvironments(this.parameters, this.headers); 
+
+            var environments = peE.discoverEnvironments(); 
+
+            discoveryPayload['environments'] = environments.environments; 
+
+            discoveryPayload['objectId'] =  environments.objectId; 
+
+        } 
+
+         
+
+        if (discoveryParameter == "group") { 
+
+            //invoke Environments Discovery 
+
+            var peG = new PuppetEnterpriseClassification(this.parameters, this.headers); 
+
+            var groups = peG.discoverGroups(); 
+
+            discoveryPayload['groups'] = groups.groups; 
+
+            discoveryPayload['objectId'] =  groups.objectId; 
+
+        } 
+
+  
+
+        if (discoveryParameter == "inventory") { 
+
+            //invoke Inventories Discovery 
+
+            var peI = new PuppetEnterpriseInventory(this.parameters, this.headers); 
+
+            var inventories = peI.discoverInventories(); 
+
+            discoveryPayload['inventories'] = inventories.inventories; 
+
+            discoveryPayload['facts'] = inventories.facts; 
+
+            discoveryPayload['objectId'] =  inventories.objectId; 
+
+        } 
+
+  
+
+        if (discoveryParameter == "unsigned_certificate") { 
+
+            //invoke Unsigned Certificates Discovery 
+
+            var peC = new PuppetEnterpriseUnsignedCerts(this.parameters, this.headers); 
+
+            var unsignedCertificates = peC.discoverUnsignedCert(); 
+
+            discoveryPayload['unsignedCertificates'] = unsignedCertificates.unsigned_certs; 
+
+            discoveryPayload['objectId'] =  unsignedCertificates.objectId; 
+
+        } 
+
+  
+
+        if (discoveryParameter == "moduleClasses") {  
+
+            //invoke job_modules Discovery 
+
+            var peJ = new PuppetEnterpriseEnvironments(this.parameters, this.headers); 
+
+            var modules = peJ.discoverModuleClasses(); 
+
+            discoveryPayload['moduleClasses'] = modules.moduleClasses; 
+
+            discoveryPayload['objectId'] =  modules.objectId; 
+
+        } 
+
+  
+
+        return discoveryPayload; 
+
+    } catch (exception) { 
+		ms.log('puppet-enterprise-1.0-Discover exception = ' + exception);
+        throw exception; 
+
+    } 
+
+} ]]></script>
+        <sys_class_name>ecc_agent_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-10-19 22:54:42</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>958ae3f8db596300e6ddfb371d961918</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>puppet-enterprise-1.0-Discover</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="cfgpuppet9" source="x_nutr_cfgpuppet9">7d636fb0db596300e6ddfb371d961936</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="cfgpuppet9">7d636fb0db596300e6ddfb371d961936</sys_scope>
+        <sys_update_name>ecc_agent_script_include_958ae3f8db596300e6ddfb371d961918</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-10-22 20:44:20</sys_updated_on>
+    </ecc_agent_script_include>
+</record_update>

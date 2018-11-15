@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_cmp_bp_stage_resource">
+    <sn_cmp_bp_stage_resource action="INSERT_OR_UPDATE">
+        <alias_name>Virtual Server</alias_name>
+        <bp_stage_model display_value="">8f65f3f4db996300e6ddfb371d9619c8</bp_stage_model>
+        <constraint/>
+        <host_ci/>
+        <resource_block display_value="Virtual Server">6a4a735e0be622009e620bcb15673a04</resource_block>
+        <sys_class_name>sn_cmp_bp_stage_resource</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-10-19 23:42:34</sys_created_on>
+        <sys_id>de75bff4db996300e6ddfb371d96194c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Virtual Server</sys_name>
+        <sys_package display_value="cfgpuppet9" source="x_nutr_cfgpuppet9">7d636fb0db596300e6ddfb371d961936</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="cfgpuppet9">7d636fb0db596300e6ddfb371d961936</sys_scope>
+        <sys_update_name>sn_cmp_bp_stage_resource_de75bff4db996300e6ddfb371d96194c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-10-19 23:42:34</sys_updated_on>
+        <type>1</type>
+    </sn_cmp_bp_stage_resource>
+</record_update>

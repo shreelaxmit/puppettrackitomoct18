@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_cmp_rb_op_signature">
+    <sn_cmp_rb_op_signature action="INSERT_OR_UPDATE">
+        <access_type>2</access_type>
+        <applicable_to/>
+        <interface display_value="PuppetInstaller Resource Interface">9d65b3f4db996300e6ddfb371d96191c</interface>
+        <name>ModifyLease</name>
+        <operation_type display_value="RECONFIGURE">333788ea0b7032009e620bcb15673ac9</operation_type>
+        <sys_class_name>sn_cmp_rb_op_signature</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-10-19 23:42:20</sys_created_on>
+        <sys_id>7665f3f4db996300e6ddfb371d9619a4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ModifyLease</sys_name>
+        <sys_package display_value="cfgpuppet9" source="x_nutr_cfgpuppet9">7d636fb0db596300e6ddfb371d961936</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="cfgpuppet9">7d636fb0db596300e6ddfb371d961936</sys_scope>
+        <sys_update_name>sn_cmp_rb_op_signature_7665f3f4db996300e6ddfb371d9619a4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-10-19 23:42:20</sys_updated_on>
+    </sn_cmp_rb_op_signature>
+</record_update>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="io_set_item">
+    <io_set_item action="INSERT_OR_UPDATE">
+        <order>50</order>
+        <sc_cat_item display_value="PuppetInstaller">e8063b38db996300e6ddfb371d9619d4</sc_cat_item>
+        <sys_class_name>io_set_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-10-19 23:44:57</sys_created_on>
+        <sys_id>d106fb38db996300e6ddfb371d961907</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ExecuteConfigPackages.</sys_name>
+        <sys_package display_value="cfgpuppet9" source="x_nutr_cfgpuppet9">7d636fb0db596300e6ddfb371d961936</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="cfgpuppet9">7d636fb0db596300e6ddfb371d961936</sys_scope>
+        <sys_update_name>io_set_item_d106fb38db996300e6ddfb371d961907</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-10-19 23:44:57</sys_updated_on>
+        <variable_set display_value="ExecuteConfigPackages">d906fb38db996300e6ddfb371d961906</variable_set>
+    </io_set_item>
+</record_update>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_cmp_rb_op_impl_param">
+    <sn_cmp_rb_op_impl_param action="INSERT_OR_UPDATE">
+        <applicable_to/>
+        <datasource>10</datasource>
+        <datasourcevalue>cmdb_ci_appl</datasourcevalue>
+        <defaultvalue>${parameter.Application}</defaultvalue>
+        <error_text/>
+        <help_text/>
+        <host/>
+        <ismandatory>false</ismandatory>
+        <name>Application</name>
+        <op_param/>
+        <operation display_value="Provision">e965b3f4db996300e6ddfb371d961937</operation>
+        <order>120</order>
+        <read_only>false</read_only>
+        <regex/>
+        <step/>
+        <sys_class_name>sn_cmp_rb_op_impl_param</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-10-19 23:42:17</sys_created_on>
+        <sys_id>ce65b3f4db996300e6ddfb371d9619e9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Application</sys_name>
+        <sys_package display_value="cfgpuppet9" source="x_nutr_cfgpuppet9">7d636fb0db596300e6ddfb371d961936</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="cfgpuppet9">7d636fb0db596300e6ddfb371d961936</sys_scope>
+        <sys_update_name>sn_cmp_rb_op_impl_param_ce65b3f4db996300e6ddfb371d9619e9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-10-19 23:42:17</sys_updated_on>
+        <ui_data_type/>
+        <value/>
+        <visibilty>true</visibilty>
+    </sn_cmp_rb_op_impl_param>
+</record_update>

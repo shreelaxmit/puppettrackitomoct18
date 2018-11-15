@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>Puppet Enterprise Environment</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Puppet Enterprise Environment</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Base Configuration Item" name="Base Configuration Item">3114172bdb0123001d59b12c4e961937</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-10-19 23:15:06</sys_created_on>
+        <sys_id>ff2f27bcdb596300e6ddfb371d9619a8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Puppet Enterprise Environment</sys_name>
+        <sys_package display_value="cfgpuppet9" source="x_nutr_cfgpuppet9">7d636fb0db596300e6ddfb371d961936</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="cfgpuppet9">7d636fb0db596300e6ddfb371d961936</sys_scope>
+        <sys_update_name>sys_wizard_answer_ff2f27bcdb596300e6ddfb371d9619a8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-10-19 23:15:06</sys_updated_on>
+        <table/>
+        <target_url>x_nutr_cfgpuppet9_u_cmdb_ci_puppet_enterprise_environment.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>

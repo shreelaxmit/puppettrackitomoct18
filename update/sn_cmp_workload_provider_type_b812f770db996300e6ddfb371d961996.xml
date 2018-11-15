@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_cmp_workload_provider_type">
+    <sn_cmp_workload_provider_type action="INSERT_OR_UPDATE">
+        <config_ci>x_nutr_cfgpuppet9_u_cmdb_ci_puppet_enterprise</config_ci>
+        <credential_resolver display_value="PuppetEnterpriseCredentialResolver">90cde37cdb596300e6ddfb371d96193f</credential_resolver>
+        <credential_type>x_nutr_cfgpuppet9_puppet_enterprise_credentials</credential_type>
+        <name>Puppet Enterprise </name>
+        <product_type display_value="Puppet Enterprise">391aafb8db596300e6ddfb371d961981</product_type>
+        <provider_version>1.o</provider_version>
+        <server_type>Enterprise,Opensource </server_type>
+        <sys_class_name>sn_cmp_workload_provider_type</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-10-19 23:28:59</sys_created_on>
+        <sys_id>b812f770db996300e6ddfb371d961996</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Puppet Enterprise </sys_name>
+        <sys_package display_value="cfgpuppet9" source="x_nutr_cfgpuppet9">7d636fb0db596300e6ddfb371d961936</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="cfgpuppet9">7d636fb0db596300e6ddfb371d961936</sys_scope>
+        <sys_update_name>sn_cmp_workload_provider_type_b812f770db996300e6ddfb371d961996</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-10-19 23:28:59</sys_updated_on>
+    </sn_cmp_workload_provider_type>
+</record_update>

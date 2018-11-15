@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_cmp_rb_op_impl_step">
+    <sn_cmp_rb_op_impl_step action="INSERT_OR_UPDATE">
+        <capi_interface display_value="Configuration Management Interface">d97489240b232200f353c9bf15673ac9</capi_interface>
+        <capi_method display_value="Discover">7174c9240b232200f353c9bf15673a1d</capi_method>
+        <capi_version>1.0</capi_version>
+        <condition/>
+        <depends_on/>
+        <enabled>true</enabled>
+        <flow_type/>
+        <force_async>false</force_async>
+        <interface display_value="Puppet Enterprise Interface">711077fcdb596300e6ddfb371d961928</interface>
+        <interface_operation display_value="Discover">0030f7fcdb596300e6ddfb371d9619a3</interface_operation>
+        <name>Configuration Management Interface.Discover.1</name>
+        <operationimpl display_value="Discover">0830f7fcdb596300e6ddfb371d9619a4</operationimpl>
+        <order>10</order>
+        <owner_type>1</owner_type>
+        <parent_step/>
+        <parentstep/>
+        <product_type/>
+        <provider>puppet-enterprise</provider>
+        <provider_type/>
+        <sys_class_name>sn_cmp_rb_op_impl_step</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-10-19 23:23:07</sys_created_on>
+        <sys_id>6501fffcdb596300e6ddfb371d96192d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Configuration Management Interface.Discover.1</sys_name>
+        <sys_package display_value="cfgpuppet9" source="x_nutr_cfgpuppet9">7d636fb0db596300e6ddfb371d961936</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="cfgpuppet9">7d636fb0db596300e6ddfb371d961936</sys_scope>
+        <sys_update_name>sn_cmp_rb_op_impl_step_6501fffcdb596300e6ddfb371d96192d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-10-19 23:23:07</sys_updated_on>
+        <target_entity_flow/>
+    </sn_cmp_rb_op_impl_step>
+</record_update>

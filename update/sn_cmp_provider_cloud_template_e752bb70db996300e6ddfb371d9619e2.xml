@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_cmp_provider_cloud_template">
+    <sn_cmp_provider_cloud_template action="INSERT_OR_UPDATE">
+        <cloud_script_template/>
+        <operation_template display_value="Puppet Enterprise ">b812f770db996300e6ddfb371d961996</operation_template>
+        <provider_operation display_value="Discover">7174c9240b232200f353c9bf15673a1d</provider_operation>
+        <sys_class_name>sn_cmp_provider_cloud_template</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-10-19 23:29:00</sys_created_on>
+        <sys_id>e752bb70db996300e6ddfb371d9619e2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>7174c9240b232200f353c9bf15673a1d</sys_name>
+        <sys_package display_value="cfgpuppet9" source="x_nutr_cfgpuppet9">7d636fb0db596300e6ddfb371d961936</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="cfgpuppet9">7d636fb0db596300e6ddfb371d961936</sys_scope>
+        <sys_update_name>sn_cmp_provider_cloud_template_e752bb70db996300e6ddfb371d9619e2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-10-19 23:29:00</sys_updated_on>
+    </sn_cmp_provider_cloud_template>
+</record_update>
